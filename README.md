@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
-- 🔭 I’m currently working on [Zen-Z](https://github.com/jeetbhuptani/Zen-Z)
+- 🔭 I’m currently working on [Zen-Z](https://github.com/desaikrish/Zen-Z) , [MediChain](https://github.com/jeetbhuptani/Zen-Z)
 
 - 🌱 I’m currently learning **Javascript, MERN, Python**
 

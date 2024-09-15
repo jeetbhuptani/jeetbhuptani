@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [Zen-Z](https://github.com/desaikrish/Zen-Z) , [MediChain](https://github.com/jeetbhuptani/MediChain)
 
-- 🌱 I’m currently learning **Angular, Dart, Flutter, Verilog**
+- 🌱 I’m currently learning **Angular, Dart, Flutter, Verilog, GCP**
 
-- 💬 Ask me about **django, spring, MERN**
+- 💬 Ask me about **MERN, GCP, Flutter, .NET**
 
 - 📫 How to reach me **jeet.work.id@gmail.com**
 

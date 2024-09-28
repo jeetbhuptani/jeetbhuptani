@@ -23,7 +23,7 @@
 
 ## 💻 Tools and Tech:
 ### 📃 LANGUAGES
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>
@@ -61,7 +61,7 @@
 </table>
 
 ### 🌐 WEB
-<table align="center">
+<table>
   <tr>
     <td align="center" width="90">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>
@@ -103,7 +103,7 @@
 </table>
 
 ### 📱 MICRODEV |🗄️ DATABASE | ☁️ CLOUD
-<table width="40">
+<table>
   <tr>
     <td align="center" width="90">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 

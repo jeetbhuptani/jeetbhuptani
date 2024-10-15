@@ -79,10 +79,10 @@
          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>
       <br>React
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
         <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a>
       <br>Redux
-    </td>
+    </td> -->
     <td align="center" width="90">
         <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a>
       <br>Angular
@@ -107,7 +107,7 @@
   <tr>
     <td align="center" width="90">
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> 
-      <br>Andriod
+      <br>Android
     </td>
     <td align="center" width="90">
       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/></a>

@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
-🔭 I’m currently working on [MediChain](https://github.com/jeetbhuptani/MediChainMVC)
+🔭 Previously worked on [MediChain](https://github.com/jeetbhuptani/MediChainMVC)
 
 🌱 I’m currently learning **Angular, Dart, Flutter, Verilog, GCP**
 

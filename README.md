@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
-🔭 Previously worked on [MediChain](https://github.com/jeetbhuptani/MediChainMVC)
+🔭 Currently working on [SmartTripPlanner](https://github.com/jeetbhuptani/smarttripplanner)
 
-🌱 I’m currently learning **Angular, Dart, Flutter, Verilog, GCP**
+🌱 I’m currently learning **ML, MERN, WEB SERVICES, DOCKER**
 
 💬 Ask me about **MERN, GCP, Flutter, .NET**
 

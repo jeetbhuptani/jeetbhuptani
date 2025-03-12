@@ -102,7 +102,7 @@
   </tr>
 </table>
 
-### 📱 MICRODEV |🗄️ DATABASE | ☁️ CLOUD
+### 📱 MICRODEV |🗄️ DATABASE 
 <table>
   <tr>
     <td align="center" width="90">
@@ -128,14 +128,28 @@
      <td align="center" width="90">
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>
       <br>SQLite
-    </td>
-     <td align="center" width="90">
+     </td>
+  </tr>
+</table>
+
+### ☁️ CLOUD
+<table>
+  <tr>
+    <td align="center" width="90">
         <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a>
       <br>AWS
     </td>
      <td align="center" width="90">
         <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a>
       <br>GCP
+    </td>
+    <td align="center" width="90">
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a>
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/> </a>
+      <br>K8s
     </td>
   </tr>
 </table>
@@ -158,6 +172,10 @@
     <td align="center" width="90">
       <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>
       <br>Postman
+    </td>
+    <td align="center" width="90">
+      <a href="" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=notion" alt="notion" width="40" height="40"/> </a>
+      <br>Notion
     </td>
   </tr>
 </table>

@@ -188,6 +188,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=jeetbhuptani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
+<img src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <picture>
@@ -195,10 +197,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<!--<img src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/snake.svg" alt="Snake animation" /> -->
 
 ###
 

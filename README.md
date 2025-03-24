@@ -180,10 +180,24 @@
   </tr>
 </table>
 
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=jeetbhuptani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=jeetbhuptani&theme=dark&hide_border=false)<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeetbhuptani&show_icons=true&locale=en&layout=compact" alt="jeetbhuptani" /></p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=jeetbhuptani&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeetbhuptani&show_icons=true&locale=en" alt="jeetbhuptani" /></p>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 [![An image of @tf141jeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tf141jeet)](https://holopin.io/@tf141jeet)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)

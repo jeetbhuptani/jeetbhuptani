@@ -197,6 +197,9 @@
 </picture>
 
 ###
+<!--<img src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/snake.svg" alt="Snake animation" /> -->
+
+###
 
 
 [![An image of @tf141jeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tf141jeet)](https://holopin.io/@tf141jeet)

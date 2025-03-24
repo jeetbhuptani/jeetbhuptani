@@ -197,6 +197,7 @@
 </picture>
 
 ###
+
 <!--<img src="https://raw.githubusercontent.com/jeetbhuptani/jeetbhuptani/output/snake.svg" alt="Snake animation" /> -->
 
 ###

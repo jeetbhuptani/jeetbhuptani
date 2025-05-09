@@ -5,9 +5,9 @@
 
 🔭 Currently working on [ArthaAI](https://github.com/jeetbhuptani/ArthaAI)
 
-🌱 I’m currently learning **ML, MERN, WEB SERVICES, DOCKER**
+🌱 I’m currently learning **ML, WEB SERVICES, Cloud**
 
-💬 Ask me about **MERN, GCP, Flutter, .NET**
+💬 Ask me about **MERN, GCP, GenAI, .NET**
 
 📫 How to reach me **jeet.work.id@gmail.com**
 

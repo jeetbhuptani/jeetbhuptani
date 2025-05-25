@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
-🔭 Currently working on [ArthaAI](https://github.com/jeetbhuptani/ArthaAI)
+🔭 Currently working on [Intellicruit](https://github.com/MILANBHADARKA/intellicruit)
 
 🌱 I’m currently learning **ML, WEB SERVICES, Cloud**
 

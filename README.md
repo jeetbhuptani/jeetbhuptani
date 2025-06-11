@@ -267,4 +267,4 @@
 [![An image of @tf141jeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tf141jeet)](https://holopin.io/@tf141jeet)
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mntld22u3ntrc2ztsrrlvxfspu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mntld22u3ntrc2ztsrrlvxfspu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)  -->

@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
-🔭 Currently working on [Intellicruit](https://github.com/MILANBHADARKA/intellicruit)
+🔭 Currently hustling with the latest tech in market.
 
-🌱 I’m currently learning **ML, WEB SERVICES, Cloud**
+🌱 I’m currently learning **Web Services, Cloud & GCP**
 
-💬 Ask me about **MERN, GCP, GenAI, .NET**
+🌟Enhancing my skills **Java, React, DSA & DBMS**
+
+💬 Ask me about **MERN, GCP, GenAI, .NET & Java☕**
 
 📫 How to reach me **jeet.work.id@gmail.com**
 

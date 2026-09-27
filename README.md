@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jeet Bhuptani</h1>
-<h3 align="center">A developer, tech explorer, contributor from India</h3>
+<h3 align="center">A Product Engineer, tech explorer, contributor from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetbhuptani&label=Profile%20views&color=0e75b6&style=flat" alt="jeetbhuptani" /> </p>
 
 🔭 Currently hustling with the latest tech in market.
-
-🌱 I’m currently learning **Web Services, Cloud & GCP**
-
-🌟Enhancing my skills **Java, React, DSA & DBMS**
-
-💬 Ask me about **MERN, GCP, GenAI, .NET & Java☕**
 
 📫 How to reach me **jeet.work.id@gmail.com**
 
